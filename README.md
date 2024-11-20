@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alevybees  
 - 👀 I’m interested in software engineering, open-source projects, and creative problem-solving.  
-- 🌱 I’m currently learning advanced C, MySQL, and Generative AI.  
+- 🌱 I’m currently learning C, MySQL, and Generative AI.  
 - 💞️ I’m looking to collaborate on beginner-friendly open-source projects.  
 - 📫 How to reach me: [Instagram](https://www.instagram.com/alevybees/)  
 - 😄 Pronouns: He/Him  
